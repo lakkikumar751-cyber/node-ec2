@@ -3,7 +3,7 @@ const http = require("http");
 
 const users = [
   { id: 1, name: "Aarav Sharma", email: "aarav@example.com" },
-  { id: 2, name: "Priya Verma", email: "priya@example.com" }
+  { id: 2, name: "lakki Verma", email: "lakki@example.com" }
 ];
 
 const server = http.createServer((req, res) => {
